@@ -106,7 +106,7 @@ VALUES
   (5, 'Under Pressure', 152, 3, 2),
   (6, 'Como Nossos Pais', 105, 4, 3),
   (7, 'O Medo de Amar é o Medo de Ser Livre', 207, 5, 3),
-  (8, 'Samba em Paris', 207, 6, 4),
+  (8, 'Samba em Paris', 267, 6, 4),
   (9, 'The Bard’s  Song', 244, 7, 5),
   (10, 'Feeling Good', 100, 8,6);
 
